@@ -1,0 +1,22 @@
+.SecAbout{
+   
+    background-color: #18bc9c; 
+    color: white;
+}
+.btnDownload .btn {
+    color: #fff;
+    border-color:#fff;
+
+}
+.btnDownload .btn:hover{
+    background-color: #fff;
+    color: #2c3e50;
+    
+
+}
+ .custom{
+    border: none;
+    border-top: 4px solid #fff; 
+    width: 100px; 
+    opacity: 1;
+}

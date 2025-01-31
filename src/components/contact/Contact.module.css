@@ -1,0 +1,17 @@
+.cont{
+    color: #2c3e50;  
+ 
+ }
+ .contact .formfloating{
+     border-bottom-color:#6d6d6d00;
+ }
+ .cont .btn{
+     background-color: #18bc9c; 
+     width:100px;
+ }
+.custom{
+     border: none;
+     border-top: 4px solid #2c3e50; 
+     width: 100px; 
+     opacity: 1;
+ }
